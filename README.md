@@ -22,6 +22,7 @@ mon / tue / wed / thu / fri / sat / sun
 
 <!--
 2020. 12. 05 test
+2020. 12. 06 test
 2021. 02. 01 1commit
 2021. 02. 02 1commit
 2021. 02. 03 1commit
