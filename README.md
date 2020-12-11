@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 -->
 <!--
 잔디색
-1 commit 진한녹색
-2 commit ?2020
-3 commit ?? 
+2020. 12. 12
 -->
