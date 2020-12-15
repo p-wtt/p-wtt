@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 2020. 12. 12
 2020. 12. 13 1commit 3단계
 2020. 12. 14 2commit
-2020. 12. 15 1commit
+2020. 12. 15 2commit
 -->
