@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 2020. 12. 18 2commit
 2020. 12. 19 2commit
 ....
-2020. 12. 21 1commit
+2020. 12. 21 2commit
 -->
