@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 <!--
 잔디색
+mon / tue / wed / thu / fri / sat / sun
 2020. 12. 12
 2020. 12. 13 1commit 3단계
 2020. 12. 14 2commit
@@ -27,4 +28,5 @@ Here are some ideas to get you started:
 2020. 12. 19 2commit
 2020. 12. 20 2commit
 2020. 12. 21 2commit
+2020. 12. 22 1commit
 -->
