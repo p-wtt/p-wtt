@@ -40,6 +40,7 @@ git commit edit test
 2020. 12. 28 4commit
 2020. 12. 29 1commit
 2020. 12. 30 1commit
+2020. 12. 31 1commit
 2021. 01. 01 2commit
 >>>>>>> d4046fdc74e4a451cfe7bba6a2e53e796605606e
 -->
