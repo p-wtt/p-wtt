@@ -49,6 +49,7 @@ mon / tue / wed / thu / fri / sat / sun
 2021. 01. 26 1commit  
 2021. 01. 27 1commit
 2021. 01. 28 1commit
-2021. 01. 29 1commit  
+2021. 01. 29 1commit
+2021. 01. 30 1commit
 2021. 02. 01 1commit
 -->
