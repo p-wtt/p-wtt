@@ -41,7 +41,7 @@ mon / tue / wed / thu / fri / sat / sun
 2021. 02. 13 1commit
 2021. 02. 14 1commit
 2021. 02. 15 1commit
-2021. 02. 16 1commit
+2021. 02. 16 1commit (push test)
 2021. 02. 17 1commit
 2021. 02. 18 1commit
 2021. 02. 19 1commit
