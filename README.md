@@ -1,5 +1,4 @@
 ### Hi there 👋
-⚡ parksangmin github blog
 
 <!--
 **p-wtt/p-wtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
@@ -18,8 +17,4 @@ Here are some ideas to get you started:
 <!--
 잔디색
 mon / tue / wed / thu / fri / sat / sun
--->
-
-<!--
-2021. 05.18
 -->
